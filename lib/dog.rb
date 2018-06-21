@@ -3,6 +3,6 @@
 class Ruby
   attr_accessible :
   
-  def
+  def initialize()
   
   end
